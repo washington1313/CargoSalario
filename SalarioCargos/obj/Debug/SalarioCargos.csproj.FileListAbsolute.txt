@@ -1,0 +1,8 @@
+C:\Users\wmfbh\OneDrive\Documentos\Estudo\VS aplicações\SalarioCargos\SalarioCargos\bin\Debug\SalarioCargos.exe.config
+C:\Users\wmfbh\OneDrive\Documentos\Estudo\VS aplicações\SalarioCargos\SalarioCargos\bin\Debug\SalarioCargos.exe
+C:\Users\wmfbh\OneDrive\Documentos\Estudo\VS aplicações\SalarioCargos\SalarioCargos\bin\Debug\SalarioCargos.pdb
+C:\Users\wmfbh\OneDrive\Documentos\Estudo\VS aplicações\SalarioCargos\SalarioCargos\obj\Debug\SalarioCargos.csproj.AssemblyReference.cache
+C:\Users\wmfbh\OneDrive\Documentos\Estudo\VS aplicações\SalarioCargos\SalarioCargos\obj\Debug\SalarioCargos.csproj.SuggestedBindingRedirects.cache
+C:\Users\wmfbh\OneDrive\Documentos\Estudo\VS aplicações\SalarioCargos\SalarioCargos\obj\Debug\SalarioCargos.csproj.CoreCompileInputs.cache
+C:\Users\wmfbh\OneDrive\Documentos\Estudo\VS aplicações\SalarioCargos\SalarioCargos\obj\Debug\SalarioCargos.exe
+C:\Users\wmfbh\OneDrive\Documentos\Estudo\VS aplicações\SalarioCargos\SalarioCargos\obj\Debug\SalarioCargos.pdb
